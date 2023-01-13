@@ -10,12 +10,12 @@ img {
 }
 .container{
 
-  background: url("../../../assets/pexels-erick-marynowski-12604816.jpg") no-repeat;
+  background: url("../../../assets/pexels-james-wheeler-1486902.jpg") no-repeat;
   
   
   background-size: cover;
   background-position: center;
-  height: 500px;
+  height: 700px;
 }
 
 .box{
