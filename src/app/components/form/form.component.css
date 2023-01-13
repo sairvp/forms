@@ -25,11 +25,11 @@ img {
   left:50%;
   transform:translate(-50%,-50%);
   width:400px;
-  background: rgb(0,0,0,0.4);
+  background: rgb(9, 220, 185,0.1);
   padding:40px;
   box-sizing: border-box;
   box-shadow:0 15px 25px rgba(0,0,0,1);
-
+border-radius: 50px 0px 50px 0px;;
 
 }
 
@@ -64,6 +64,7 @@ img {
   border-bottom:1px solid #fff;
   outline: none;
   background: transparent;
+  border-left: 1px solid rgb(201, 140, 9);
 
 }
 
